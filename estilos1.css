@@ -164,6 +164,7 @@ div#fot7{
 
 /* Fotos galería 2 :::: ================ */
 div#fotos2{
+	width: 100%;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
